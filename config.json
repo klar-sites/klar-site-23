@@ -1,0 +1,10 @@
+{
+  "pageTypes": [],
+  "pages": [
+    {
+      "name": "index.html",
+      "editableElements": ".features-grid[]"
+    }
+  ],
+  "vocabularies": {}
+}
